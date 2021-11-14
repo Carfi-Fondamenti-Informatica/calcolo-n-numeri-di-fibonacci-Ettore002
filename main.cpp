@@ -13,7 +13,7 @@ int main() {
          cout<<x<<endl;
       }
    }else{
-         cout<<"errore"endl;
+         cout<<"errore";
       }
    return 0;
 }
